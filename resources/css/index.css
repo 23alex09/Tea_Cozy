@@ -21,9 +21,9 @@ header {
     z-index: 1;
 }
 
-h2 {}
-
-h4 {}
+section {
+    padding-top: 70px;
+}
 
 #links {
     display: flex;
